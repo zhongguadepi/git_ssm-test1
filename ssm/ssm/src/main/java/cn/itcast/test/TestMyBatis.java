@@ -40,7 +40,7 @@ public class TestMyBatis {
 
     /**
      * 测试保存
-     * @throws Exception
+     * @throws Exception 哈哈
      */
     @Test
     public void run2() throws Exception {
